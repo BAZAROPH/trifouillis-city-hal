@@ -14,7 +14,8 @@ dependencies = [
     "faiss-cpu (>=1.13.2,<2.0.0)",
     "numpy (>=2.4.4,<3.0.0)",
     "python-dotenv (>=1.2.2,<2.0.0)",
-    "sentence-transformers (>=5.4.1,<6.0.0)"
+    "sentence-transformers (>=5.4.1,<6.0.0)",
+    "fasttext (>=0.9.3,<0.10.0)"
 ]
 
 [build-system]
