@@ -1,0 +1,39 @@
+{
+    "festival": {
+        "similarity":[
+            "Spectacles de rue et scènes d’improvisation comique",
+            "Concours de blagues avec récompenses humoristiques"
+        ],
+        "dissimilarity": ["Je vous souhaite à toutes et à tous une très belle année"]
+
+    },
+    "communication": {
+        "similarity":[
+            "Je vous souhaite à toutes et à tous une très belle année",
+            "Nous continuerons à bâtir une ville plus dynamique"
+        ],
+        "dissimilarity": [ "Pourriez-vous, s’il vous plaît, me communiquer ces informations" ]
+    },
+    "instance": {
+        "similarity": [
+            "Présentation du projet de réaménagement et des nouvelles infrastructures prévues",
+            "Échanges sur les propositions des habitants concernant la sécurité, l'accessibilité et la mise en valeur du patrimoine local."
+        ],
+        "dissimilarity": [ "Ateliers de clown et initiation à l’art du slapstick" ]
+    },
+    "citoyen": {
+        "similarity": [
+            "Je me permets de vous écrire afin d’obtenir des renseignements détaillés",
+            "Je souhaite mieux comprendre le planning d’intervention"
+        ],
+        "dissimilarity": [ "Concours de blagues avec récompenses humoristiques" ]
+    },
+    "projet": {
+        "similarity": [
+            "Réduction des actes de délinquance et d'incivilité de 15 à 20% dans les zones couvertes",
+            "Amélioration du sentiment de sécurité des habitants et visiteurs"
+        ],
+        "dissimilarity": [ "Concours de blagues avec récompenses humoristiques" ]
+    }
+
+}

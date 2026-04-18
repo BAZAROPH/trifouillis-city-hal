@@ -1,0 +1,77 @@
+{
+    "festival": {
+        "similary": [
+            [
+                "Spectacles de rue et scènes d’improvisation comique"
+            ],
+            [
+                "Concours de blagues avec récompenses humoristiques"
+            ]
+        ],
+        "dimissilarity": [
+            [
+                "Je vous souhaite à toutes et à tous une très belle année"
+            ]
+        ]
+    },
+    "communication": {
+        "similary": [
+            [
+                "Je vous souhaite à toutes et à tous une très belle année"
+            ],
+            [
+                "Nous continuerons à bâtir une ville plus dynamique"
+            ]
+        ],
+        "dimissilarity": [
+            [
+                "Pourriez-vous, s’il vous plaît, me communiquer ces informations"
+            ]
+        ]
+    },
+    "instance": {
+        "similary": [
+            [
+                "Présentation du projet de réaménagement et des nouvelles infrastructures prévues"
+            ],
+            [
+                "Échanges sur les propositions des habitants concernant la sécurité, l'accessibilité et la mise en valeur du patrimoine local."
+            ]
+        ],
+        "dimissilarity": [
+            [
+                "Ateliers de clown et initiation à l’art du slapstick"
+            ]
+        ]
+    },
+    "citoyen": {
+        "similary": [
+            [
+                "Je me permets de vous écrire afin d’obtenir des renseignements détaillés"
+            ],
+            [
+                "Je souhaite mieux comprendre le planning d’intervention"
+            ]
+        ],
+        "dimissilarity": [
+            [
+                "Concours de blagues avec récompenses humoristiques"
+            ]
+        ]
+    },
+    "projet": {
+        "similary": [
+            [
+                "Réduction des actes de délinquance et d'incivilité de 15 à 20% dans les zones couvertes"
+            ],
+            [
+                "Amélioration du sentiment de sécurité des habitants et visiteurs"
+            ]
+        ],
+        "dimissilarity": [
+            [
+                "Concours de blagues avec récompenses humoristiques"
+            ]
+        ]
+    }
+}

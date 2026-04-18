@@ -9,7 +9,12 @@ requires-python = ">=3.12,<3.13"
 package-mode = false
 dependencies = [
     "docling>=2.86.0,<3.0.0",
-    "openai-whisper (>=20250625,<20250626)"
+    "openai-whisper (>=20250625,<20250626)",
+    "mistralai (>=2.4.0,<3.0.0)",
+    "faiss-cpu (>=1.13.2,<2.0.0)",
+    "numpy (>=2.4.4,<3.0.0)",
+    "python-dotenv (>=1.2.2,<2.0.0)",
+    "sentence-transformers (>=5.4.1,<6.0.0)"
 ]
 
 [build-system]
