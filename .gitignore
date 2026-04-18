@@ -3,5 +3,8 @@
 .venv
 .DS_Store
 
+# pretrained model
+*.bin
+
 #macOS
 **/.DS_Store
